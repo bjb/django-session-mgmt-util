@@ -14,4 +14,8 @@ commands, so it is not a management command.
 The script will show the possible command line options if you
 run it without options.
 
+TODO:  turn this into a management command and port to django 1.5
+
+
+
 
